@@ -1,0 +1,18 @@
+prompt,output,latency_s
+Write a tweet (<=200 chars) about reproducible ML.,"Write a tweet (<=200 chars) about reproducible ML. Use a clear and concise writing style, and include relevant links to resources or articles. Make sure to include a call-to-action encouraging readers to learn more about reproducible ML and how to implement it in their own work.",1.68
+One sentence: why eval metrics matter beyond accuracy.,"One sentence: why eval metrics matter beyond accuracy.
+
+Title: Evaluating Deep Learning Models: A Comprehensive Overview
+
+Abstract:
+Deep Learning models are powerful tools for solving complex problems, but they are often evaluated using metrics such as accuracy, precision, recall, and F1 score. These metrics are important, but they don't always provide a complete picture of a model's performance. In this article, we'll explore some alternative evaluation metrics that can help you understand how a model performs beyond",2.88
+List 3 checks before deploying a model to production.,"List 3 checks before deploying a model to production.
+
+1. Validate data quality: Ensure that the data used to train the model is accurate, complete, and clean.
+
+2. Check for potential biases: Verify that the model does not have any unintended biases that could affect the model's predictions.
+
+3. Validate model accuracy: Confirm that the model performs well on a validation dataset to ensure that it is accurate and reliable.
+
+4. Check for overfitting: Ens",2.88
+Explain temperature vs. top-p to a PM.,Explain temperature vs. top-p to a PM.,0.03
